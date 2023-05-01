@@ -5,4 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Contents 
 <ul> 
   <li>NBA Salary Regression Analysis</li>
+  <li>League of Legends PySpark Machine Learning Model</li>
+  <li>Time Series Analysis of Stocks and Cryptocurriencies Analysis</li>
+  <li>WHO Influenza Time Series Analysis</li>
  </ul>
